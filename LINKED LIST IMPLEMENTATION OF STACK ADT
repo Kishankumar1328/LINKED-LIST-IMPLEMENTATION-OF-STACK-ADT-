@@ -1,5 +1,5 @@
 #include<iostream.h> #include<conio.h> #include<stdlib.h>
-//using namespace std; class node
+using namespace std; class node
 {
 public:
 class node *next; int data;
